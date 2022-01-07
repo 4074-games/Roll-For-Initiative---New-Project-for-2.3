@@ -1,0 +1,27 @@
+{"Tutorial": [{"Type":"map", 
+"Enabled":"1"
+},
+
+{"Type":"combat", 
+"Enabled":"1"
+},
+
+{"Type":"stats", 
+"Enabled":"1"
+},
+
+{"Type":"upgrade", 
+"Enabled":"1"
+},
+
+{"Type":"shop", 
+"Enabled":"1"
+},
+
+{"Type":"equipment", 
+"Enabled":"1"
+},
+
+{"Type":"menu", 
+"Enabled":"1"
+}] }

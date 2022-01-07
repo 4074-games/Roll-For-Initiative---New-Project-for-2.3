@@ -1,0 +1,1 @@
+Bash is not properly granting a Disable.

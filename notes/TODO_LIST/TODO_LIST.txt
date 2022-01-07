@@ -1,0 +1,8 @@
+Map Legend
+
+
+Meta System
+|_Tutorials
+|_
+
+Disable Continue when life is <= 0
